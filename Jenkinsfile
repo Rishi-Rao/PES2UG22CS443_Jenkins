@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                     echo 'Running tests...'
-                    sh './PES2UG22CS443-1' 
+                    sh './wrongPES2UG22CS443-1' 
                 }
             }
         }
